@@ -1,5 +1,5 @@
 # New-York-Uber-Pickups-Analysis
-Inspired by Abraham Prayoga’s project, I’d like to try to analyze the same dataset [(Uber Pickups in NYC)](https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city) from Kaggle using python for study purposes.
+Hi! So this project inspired by Abraham Prayoga’s project and I’d like to try to analyze the same dataset [(Uber Pickups in NYC)](https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city) from Kaggle using python for study purposes.
 
 In this project, we are looking for insight from Uber pickup dataset in New York City. First, we need to define the objective and business case clearly to guide us in the exploration phase.
 
